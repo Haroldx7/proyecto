@@ -26,3 +26,4 @@ imgUser.addEventListener('click', function(){
 btnC.addEventListener('click', function(){
     alertAsk.style.display = 'none'
 })
+alert("hello world")
